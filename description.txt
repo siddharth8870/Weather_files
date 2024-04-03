@@ -1,0 +1,17 @@
+I request you to work on the below project and You can use the skills (Python, No SQL Database etc). It encompasses simple networking, multi-threading, database, graphing, configuration, classes. you can refer to internet anywhere to begin this project as well... 
+1. Create account in https://openweathermap.org/api 
+2. Get API access key , after creating api access key : key = "8ce0d56e5fbf4c7c2b09e351f7f88dd6" and the name = "Weather123".
+3. Make a multi-threaded program to connect to API. 
+3a. Locations to be monitored should be placed in configuration file. 
+3b. configruation file should have refresh frequency (for free api, you should not make more than 60 per minute.. so make not more than 5 per minute..).
+4. One thread to download 5 days/3 hour forecast. 
+5. One thread to download weather maps. 
+6. All data should be stored in database (mongodb) as seperate collections/table. 
+7. One thread to open the latest weather map and display the map in window (should show last image as per last time stamp). 
+8. Forecast threads should print out alerts if there is rain/snow or freeezing temperatures (❤2 def farenheit) in any of forecast period. 
+9. See if you use graph API to display forecast/previous 10 day data from database as a graph (prebuilt libraries are there to do this).
+10. Once you complete the challenge, pls push the code to the Github.
+
+
+
+8148657681

@@ -1,0 +1,12 @@
+{
+    "api_key": "8ce0d56e5fbf4c7c2b09e351f7f88dd6",
+    "api_name": "Weather123",
+    "locations": [
+      "New York",
+      "London",
+      "Tokyo"
+    ],
+    "refresh_frequency": 300
+  }
+
+
